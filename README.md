@@ -1,3 +1,4 @@
+<img width="748" alt="Screenshot 2021-05-06 at 12 13 57 PM" src="https://user-images.githubusercontent.com/44574478/117254543-27a5b300-ae66-11eb-94ec-152b0258e97a.png">
 # Tic-Tac-Toe
 I have made Tic-Tac-Toe Puzzle/ Mini Project in Python.
 
@@ -25,3 +26,4 @@ Now we will check the winning condition, there are total of 8 conditions and whi
 
 At the last we will ask the player if they want to play again or not.
 
+<img width="748" alt="Screenshot 2021-05-06 at 12 13 57 PM" src="https://user-images.githubusercontent.com/44574478/117254583-32f8de80-ae66-11eb-9aa0-10a308dcef7c.png">
